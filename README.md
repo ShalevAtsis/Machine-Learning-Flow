@@ -56,9 +56,20 @@ To run the notebook, install the following Python libraries:
 The notebook includes a detailed comparison of model performance and a table of predicted vs. actual survival outcomes for the test set.
 
 ## Contributors
-- Tomer Golan (ID: 3540)
-- Shahar Rushetzky (ID: 0469)
-- Shalev Atsis (ID: 6961)
+- **Shalev Atsis**
+   📞 +972 58-5060699  
+   📧 [shalevatsis@gmail.com](mailto:shalevatsis@gmail.com)  
+   🔗 [LinkedIn Profile](https://www.linkedin.com/in/shalev-atsis-software-developer)
+- Tomer Golan
+   📞 +972 53-3454053
+   📧 [tomergolan2016@gmail.com](mailto:tomergolan2016@gmail.com)  
+   🔗 [LinkedIn Profile](https://www.linkedin.com/in/tomer-golan24/)
+- Shahar Rushetzky
+   📞 +972 52-7729726
+   📧 [sroshetzky@gmail.com](mailto:sroshetzky@gmail.com)  
+   🔗 [LinkedIn Profile](https://www.linkedin.com/in/shahar-rushetzky)
+  
+**Computer Science Students, HIT College**
 
 ## AI Assistance
 The project utilized OpenAI's ChatGPT and xAI's Grok for guidance on dataset explanation, code generation for data preprocessing, visualization, and hyperparameter tuning. Full details of the prompts used are included in the notebook.
