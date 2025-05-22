@@ -56,18 +56,21 @@ To run the notebook, install the following Python libraries:
 The notebook includes a detailed comparison of model performance and a table of predicted vs. actual survival outcomes for the test set.
 
 ## Contributors
-- **Shalev Atsis**
-📞 +972 58-5060699  
-📧 [shalevatsis@gmail.com](mailto:shalevatsis@gmail.com)  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/shalev-atsis-software-developer)
-- Tomer Golan
-   📞 +972 53-3454053
-   📧 [tomergolan2016@gmail.com](mailto:tomergolan2016@gmail.com)  
-   🔗 [LinkedIn Profile](https://www.linkedin.com/in/tomer-golan24/)
-- Shahar Rushetzky
-   📞 +972 52-7729726
-   📧 [sroshetzky@gmail.com](mailto:sroshetzky@gmail.com)  
-   🔗 [LinkedIn Profile](https://www.linkedin.com/in/shahar-rushetzky)
+
+### Shalev Atsis
+- 📞 Phone: [+972 58-5060699](tel:+972585060699)
+- 📧 Email: [shalevatsis@gmail.com](mailto:shalevatsis@gmail.com)
+- 🔗 LinkedIn: [Shalev Atsis](https://www.linkedin.com/in/shalev-atsis-software-developer)
+
+### Tomer Golan
+- 📞 Phone: [+972 53-3454053](tel:+972533454053)
+- 📧 Email: [tomergolan2016@gmail.com](mailto:tomergolan2016@gmail.com)
+- 🔗 LinkedIn: [Tomer Golan](https://www.linkedin.com/in/tomer-golan24/)
+
+### Shahar Rushetzky
+- 📞 Phone: [+972 52-7729726](tel:+972527729726)
+- 📧 Email: [sroshetzky@gmail.com](mailto:sroshetzky@gmail.com)
+- 🔗 LinkedIn: [Shahar Rushetzky](https://www.linkedin.com/in/shahar-rushetzky)
   
 **Computer Science Students, HIT College**
 
