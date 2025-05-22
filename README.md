@@ -57,9 +57,9 @@ The notebook includes a detailed comparison of model performance and a table of 
 
 ## Contributors
 - **Shalev Atsis**
-   📞 +972 58-5060699  
-   📧 [shalevatsis@gmail.com](mailto:shalevatsis@gmail.com)  
-   🔗 [LinkedIn Profile](https://www.linkedin.com/in/shalev-atsis-software-developer)
+📞 +972 58-5060699  
+📧 [shalevatsis@gmail.com](mailto:shalevatsis@gmail.com)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/shalev-atsis-software-developer)
 - Tomer Golan
    📞 +972 53-3454053
    📧 [tomergolan2016@gmail.com](mailto:tomergolan2016@gmail.com)  
